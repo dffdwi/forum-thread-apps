@@ -35,7 +35,7 @@ function LandingPage() {
     <Box as="section" p={4}>
       <Flex as="nav" justify="space-between" align="center" mb={4}>
         <Heading as="h1" size="lg">
-          Forum Apps
+          Forum Thread Apps
         </Heading>
         <HStack spacing={4}>
           <Link as={RouterLink} to="/login">
